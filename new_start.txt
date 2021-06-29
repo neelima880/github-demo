@@ -1,3 +1,21 @@
-welocme Because pipelines are integral to the functioning of a Linux system, this chapter introduces them for use in examples. Pipelines are covered in detail beginning on page 145. Pipelines do not work with macOS resource forks; they work with data forks only.
+welocme Because pipelines are integral to the functioning of a Linux system, 
+this chapter introduces them for use in examples. 
+Pipelines are covered in detail beginning on page 145. 
+Pipelines do not work with macOS resource forks; they work with data forks only. 
+A pipeline (denoted by a pipe symbol that is written as a vertical bar [|] 
+on the com- mand line and appears as a solid or broken vertical line on a keyboard) 
+takes the output of one utility and sends that output as input to another utility. 
+More accu- rately, a pipeline takes standard output of one process and redirects 
+it to become standard input of another process. See page 137 
+for more information on standard output and standard input.
+$ sort months | head -4 Apr
+Aug
+Dec
+Feb
+memo memo.0714 practice
+$ echo Hi
+Hi
+$ echo This is a sentence. This is a sentence.
+$ echo star: *
+star: memo memo.0714 practice $
 
-A pipeline (denoted by a pipe symbol that is written as a vertical bar [|] on the com- mand line and appears as a solid or broken vertical line on a keyboard) takes the output of one utility and sends that output as input to another utility. More accu- rately, a pipeline takes standard output of one process and redirects it to become standard input of another process. See page 137 for more information on standard output and standard input.
