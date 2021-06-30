@@ -1,0 +1,10 @@
+$ diff -u colors.1 colors.2
+--- colors.1
++++ colors.2
+@@ -1,6 +1,5 @@
+red +blue
+green
+ yellow
+-pink
+-purple
+orange
