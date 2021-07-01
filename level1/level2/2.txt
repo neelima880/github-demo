@@ -1,6 +1,0 @@
-$ file letter_e.bz2
-letter_e.bz2: bzip2 compressed data, block size = 900k
-$ file memo zach.jpg
-memo: ASCII text
-zach.jpg: JPEG image data, ... resolution (DPI), 72 x 72
-
