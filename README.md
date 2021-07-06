@@ -5,3 +5,6 @@ welcome to the readme file
 This is an example to show different parts of the Git repo. and various section
 
 ## demo workflow
+just to show the workflow of the git repo. 
+
+## Details
