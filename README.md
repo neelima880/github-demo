@@ -8,3 +8,5 @@ This is an example to show different parts of the Git repo. and various section
 just to show the workflow of the git repo. 
 
 ## Details
+details of workflow
+
